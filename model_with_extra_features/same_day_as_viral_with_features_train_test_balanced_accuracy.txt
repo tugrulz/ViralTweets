@@ -1,0 +1,4 @@
+checkpoint: vinai/bertweet-base: {'accuracy': 0.7770700636942676, 'recall': 0.8535031847133758, 'precision': 0.7403314917127072, 'f1': 0.7928994082840237}
+checkpoint: prajjwal1/bert-tiny: {'accuracy': 0.7229299363057324, 'recall': 0.8853503184713376, 'precision': 0.6682692307692307, 'f1': 0.7616438356164382}
+checkpoint: bert-base-cased: {'accuracy': 0.7038216560509554, 'recall': 0.8152866242038217, 'precision': 0.6666666666666666, 'f1': 0.7335243553008596}
+checkpoint: roberta-base: {'accuracy': 0.7292993630573248, 'recall': 0.8598726114649682, 'precision': 0.6818181818181818, 'f1': 0.7605633802816901}
