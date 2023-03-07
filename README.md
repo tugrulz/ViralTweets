@@ -20,5 +20,7 @@ Please cite our paper if you use our data.
 
 Contributors:
 Stephane Selim (EPFL)
+
 Célia Houssiaux (EPFL)
+
 Tuğrulcan Elmas (EPFL / IU Bloomington)
